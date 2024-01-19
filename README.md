@@ -9,6 +9,9 @@ Esta é uma aplicação que permite realizar a transcrição e o resumo de infor
 a partir de vídeos do shorts do YouTube.A aplicação consiste em duas partes: um servidor Node.js que disponibiliza uma API para transcrição e resumo, 
 e um cliente web em JavaScript que interage com essa API.
 
+<img src="./public/example.png" alt="Imagem de exemplo">
+
+
 ## Conteúdo
 
 1. [Servidor](#servidor)
